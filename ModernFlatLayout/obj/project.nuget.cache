@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yxe7Jz7fIWfx0T7IOSx/srxvRIEmtmIopkisJ8Rjjpi3MA254JSdF25g8bUlxgaIKJvsTouANqnufcFo6TU1sw==",
+  "success": true,
+  "projectFilePath": "C:\\Programing\\C#\\WindowsForm\\ModernFlatLayout\\ModernFlatLayout\\ModernFlatLayout.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kille\\.nuget\\packages\\fontawesome.sharp\\6.3.0\\fontawesome.sharp.6.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
